@@ -1,0 +1,63 @@
+ html, body {
+                height: 100%;
+            }
+
+            body {
+              
+               
+            }
+
+.navbar-inverse{
+  margin-bottom: 0px;
+  
+}
+.navbar-inverse{
+  margin-bottom: 30px;
+  padding: 10px;
+  padding-right: 0px;
+  
+
+  
+}
+.navbar-nav li a{
+  font-size: 1.5em;
+  margin-left: px;
+
+}
+.navbar-nav{
+  margin-left: 800px;
+}
+.navbar-inverse li{
+	display: inline;
+}
+
+
+           
+
+            .title {
+                font-size: 96px;
+            }
+
+            .img{
+            	height: 100px;
+            	width: 100px;
+            	margin-left: 110px;
+            }
+          
+         footer {
+  
+  background-color: #000;
+margin-left: 50px;
+margin-right: 50px;
+}
+h5{
+ font-size: 2.25em;
+}
+.btn-link{
+  margin-top: 20px;
+}
+.container{
+  margin-left: 40px;
+}
+
+ 

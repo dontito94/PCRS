@@ -1,0 +1,68 @@
+.col-md-3{
+	background-color: ;
+	padding: 40px;
+	padding-bottom: 550px;
+}
+.col-md-3 a{
+	font-size: 1.25em;
+	font-family:'lato';
+	text-decoration: none;
+	color: #000;
+	margin-left: 10px;
+}
+.col-md-3 a:hover{
+	color: #fff;
+
+}
+.row{
+  margin: 0px;
+}
+.row1{
+	background-color: khaki;
+	margin-top: 5px;
+}
+.row0{
+   margin: 0px;
+   background-color: khaki;
+}
+.container{
+	margin: 0px;
+}
+hr{
+	background-color: #000;
+}
+
+ .widget{
+ 	background-color: khaki;
+ 	font-size: 2.0em;
+ }
+ 
+
+ .form-control{
+    margin-left: 100px;
+    margin-right: 400px;
+  
+  }
+  textarea{
+  margin-top: 100px;
+ }
+ 	
+ 	.img1{
+ 		height: 100px;
+         width: 150px;
+         margin-left: 100px
+	   }
+	   .img2{
+	   		width: 150px;
+	   		margin-left: 200px;
+
+	   }
+	   .img4{
+	   	width: 150px;
+	   }
+	   footer{
+	   	background-color: #000;
+	   }
+       .gender{
+       	margin-left: 100px;
+       }
